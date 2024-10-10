@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/Kamichik/template.git
    ```
 2. Установите зависимости:
    ```bash
